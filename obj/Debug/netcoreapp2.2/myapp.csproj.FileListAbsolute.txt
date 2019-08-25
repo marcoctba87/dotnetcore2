@@ -1,0 +1,11 @@
+/home/ubuntu/docker-working/app/bin/Debug/netcoreapp2.2/myapp.deps.json
+/home/ubuntu/docker-working/app/bin/Debug/netcoreapp2.2/myapp.runtimeconfig.json
+/home/ubuntu/docker-working/app/bin/Debug/netcoreapp2.2/myapp.runtimeconfig.dev.json
+/home/ubuntu/docker-working/app/bin/Debug/netcoreapp2.2/myapp.dll
+/home/ubuntu/docker-working/app/bin/Debug/netcoreapp2.2/myapp.pdb
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.csprojAssemblyReference.cache
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.csproj.CoreCompileInputs.cache
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.AssemblyInfoInputs.cache
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.AssemblyInfo.cs
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.dll
+/home/ubuntu/docker-working/app/obj/Debug/netcoreapp2.2/myapp.pdb
